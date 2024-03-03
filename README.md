@@ -1,1 +1,1 @@
-### Hi, I do web development mainly stack at the moment: Vue.js/Nuxt.js
+Занимаюсь веб-разработкой основной стэк на данный момент: Vue.js/Nuxt.js
