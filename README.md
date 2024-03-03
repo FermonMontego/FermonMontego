@@ -6,3 +6,6 @@
     </a>
 </div>
 
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+</div>
