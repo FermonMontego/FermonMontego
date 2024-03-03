@@ -1,12 +1,6 @@
 ## Занимаюсь web-разработкой.
 <p>Основной стэк на данный момент: Vue.js/Nuxt.js</p>
 
-<div>
-    <a href="https://t.me/ru_telegram_ru" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
-    </a>
-</div>
-
 ## lang's & tools
 
 <div>
@@ -17,4 +11,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> &nbsp;
+</div>
+
+<div>
+    <a href="https://t.me/ru_telegram_ru" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+    </a>
+
+    <a href="[https://t.me/ru_telegram_ru](https://vk.com/jongallany)" target="_blank">
+        <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge">
+    </a>
 </div>
