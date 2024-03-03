@@ -1,5 +1,5 @@
 ## Занимаюсь web-разработкой.
-...Основной стэк на данный момент: Vue.js/Nuxt.js
+<p>Основной стэк на данный момент: Vue.js/Nuxt.js</p>
 
 <div>
     <a href="https://t.me/ru_telegram_ru" target="_blank">
