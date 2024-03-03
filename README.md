@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
     </a>
 </div>
-
+&nbsp;
 <div>
     <a href="https://vk.com/jongallany" target="_blank">
         <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge">
