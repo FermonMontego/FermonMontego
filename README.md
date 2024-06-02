@@ -1,5 +1,5 @@
 ## Web-dev
-<p>Основной стэк на данный момент: Vue.js/Nuxt.js</p>
+<p>Основной стэк на данный момент: Vue.js/Nuxt.js/React</p>
 
 ## lang's & tools
 
